@@ -1,0 +1,29 @@
+Pollutant,Source,Percent
+CO,Stationary Fuel Combustion,8.52773349
+NH3,Stationary Fuel Combustion,3.188662533
+NOx,Stationary Fuel Combustion,27.40987461
+PM2.5,Stationary Fuel Combustion,46.09230769
+PM10,Stationary Fuel Combustion,35.97510373
+SO2,Stationary Fuel Combustion,73.42342342
+VOC,Stationary Fuel Combustion,3.841883189
+CO,Industrial and Other Processes,27.87404548
+NH3,Industrial and Other Processes,93.88839681
+NOx,Industrial and Other Processes,14.27311912
+PM2.5,Industrial and Other Processes,37.10769231
+PM10,Industrial and Other Processes,46.14107884
+SO2,Industrial and Other Processes,22.97297297
+VOC,Industrial and Other Processes,72.2407284
+CO,Highway Vehicles,35.75774104
+NH3,Highway Vehicles,2.834366696
+NOx,Highway Vehicles,32.32758621
+PM2.5,Highway Vehicles,6.153846154
+PM10,Highway Vehicles,10.24896266
+SO2,Highway Vehicles,1.013513514
+VOC,Highway Vehicles,11.91057813
+CO,Non-Road Mobile,27.84047999
+NH3,Non-Road Mobile,0.088573959
+NOx,Non-Road Mobile,25.98942006
+PM2.5,Non-Road Mobile,10.64615385
+PM10,Non-Road Mobile,7.634854772
+SO2,Non-Road Mobile,2.59009009
+VOC,Non-Road Mobile,12.00681027
