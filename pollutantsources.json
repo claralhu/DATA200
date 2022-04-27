@@ -1,7 +1,7 @@
 {
-    {"pollutant": "CO"}: [
+    "CO": [
         {
-             "axis": "Stationary Fuel Combustion",
+            "axis": "Stationary Fuel Combustion",
             "value": 8.52773349
         },
         {
@@ -15,9 +15,12 @@
         {
             "axis": "Non-Road Mobile",
             "value": 27.84047999
+        },
+        {
+            "pollutant": "CO"
         }
     ],
-    {"pollutant": "NH3"}: [
+    "NH3": [
         {
             "axis": "Stationary Fuel Combustion",
            "value": 3.188662533
@@ -33,9 +36,12 @@
        {
            "axis": "Non-Road Mobile",
            "value": 0.088573959
+       },
+       {
+           "pollutant": "NH3"
        }        
     ],
-    {"pollutant": "NOx"}: [
+    "NOx": [
         {
            "axis": "Stationary Fuel Combustion",
            "value": 27.40987461
@@ -51,9 +57,12 @@
        {
            "axis": "Non-Road Mobile",
            "value": 25.98942006
+       },
+       {
+           "pollutant": "NOx"
        }
     ],
-    {"pollutant": "PM2.5"}: [
+    "PM2.5": [
         {
             "axis": "Stationary Fuel Combustion",
             "value": 46.09230769
@@ -69,9 +78,12 @@
         {
             "axis": "Non-Road Mobile",
             "value": 10.64615385
+        },
+        {
+            "pollutant": "PM2.5"
         }
     ],
-    {"pollutant": "PM10"}: [
+    "PM10": [
         {
             "axis": "Stationary Fuel Combustion",
             "value": 35.97510373
@@ -87,9 +99,12 @@
         {
             "axis": "Non-Road Mobile",
             "value": 7.634854772
+        },
+        {
+            "pollutant": "PM10"
         }
     ],
-    {"pollutant": "SO2"}: [
+    "SO2": [
         {
             "axis": "Stationary Fuel Combustion",
             "value": 73.42342342
@@ -105,9 +120,12 @@
         {
             "axis": "Non-Road Mobile",
             "value": 2.59009009
+        },
+        {
+            "pollutant": "SO2"
         }
     ],
-    {"pollutant": "VOC"}: [
+    "VOC": [
         {
             "axis": "Stationary Fuel Combustion",
             "value": 3.841883189
@@ -123,6 +141,9 @@
         {
             "axis": "Non-Road Mobile",
             "value": 12.00681027
+        },
+        {
+            "pollutant": "VOC"
         }
     ]
 }
