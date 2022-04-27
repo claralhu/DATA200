@@ -1,5 +1,5 @@
 {
-    "CO": [
+    {"pollutant": "CO"}: [
         {
              "axis": "Stationary Fuel Combustion",
             "value": 8.52773349
@@ -17,7 +17,7 @@
             "value": 27.84047999
         }
     ],
-    "NH3": [
+    {"pollutant": "NH3"}: [
         {
             "axis": "Stationary Fuel Combustion",
            "value": 3.188662533
@@ -35,7 +35,7 @@
            "value": 0.088573959
        }        
     ],
-    "NOx": [
+    {"pollutant": "NOx"}: [
         {
            "axis": "Stationary Fuel Combustion",
            "value": 27.40987461
@@ -53,7 +53,7 @@
            "value": 25.98942006
        }
     ],
-    "PM2.5": [
+    {"pollutant": "PM2.5"}: [
         {
             "axis": "Stationary Fuel Combustion",
             "value": 46.09230769
@@ -71,7 +71,7 @@
             "value": 10.64615385
         }
     ],
-    "PM10": [
+    {"pollutant": "PM10"}: [
         {
             "axis": "Stationary Fuel Combustion",
             "value": 35.97510373
@@ -89,7 +89,7 @@
             "value": 7.634854772
         }
     ],
-    "SO2": [
+    {"pollutant": "SO2"}: [
         {
             "axis": "Stationary Fuel Combustion",
             "value": 73.42342342
@@ -107,7 +107,7 @@
             "value": 2.59009009
         }
     ],
-    "VOC": [
+    {"pollutant": "VOC"}: [
         {
             "axis": "Stationary Fuel Combustion",
             "value": 3.841883189
