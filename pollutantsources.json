@@ -1,0 +1,128 @@
+{
+    "CO": [
+        {
+             "axis": "Stationary Fuel Combustion",
+            "value": 8.52773349
+        },
+        {
+            "axis": "Industrial and Other Processes",
+            "value": 27.87404548
+        },
+        {
+            "axis": "Highway Vehicles",
+            "value": 35.75774104
+        },
+        {
+            "axis": "Non-Road Mobile",
+            "value": 27.84047999
+        }
+    ],
+    "NH3": [
+        {
+            "axis": "Stationary Fuel Combustion",
+           "value": 3.188662533
+       },
+       {
+           "axis": "Industrial and Other Processes",
+           "value": 93.88839681
+       },
+       {
+           "axis": "Highway Vehicles",
+           "value": 2.834366696
+       },
+       {
+           "axis": "Non-Road Mobile",
+           "value": 0.088573959
+       }        
+    ],
+    "NOx": [
+        {
+           "axis": "Stationary Fuel Combustion",
+           "value": 27.40987461
+       },
+       {
+           "axis": "Industrial and Other Processes",
+           "value": 14.27311912
+       },
+       {
+           "axis": "Highway Vehicles",
+           "value": 32.32758621
+       },
+       {
+           "axis": "Non-Road Mobile",
+           "value": 25.98942006
+       }
+    ],
+    "PM2.5": [
+        {
+            "axis": "Stationary Fuel Combustion",
+            "value": 46.09230769
+        },
+        {
+            "axis": "Industrial and Other Processes",
+            "value": 37.10769231
+        },
+        {
+            "axis": "Highway Vehicles",
+            "value": 6.153846154
+        },
+        {
+            "axis": "Non-Road Mobile",
+            "value": 10.64615385
+        }
+    ],
+    "PM10": [
+        {
+            "axis": "Stationary Fuel Combustion",
+            "value": 35.97510373
+        },
+        {
+            "axis": "Industrial and Other Processes",
+            "value": 46.14107884
+        },
+        {
+            "axis": "Highway Vehicles",
+            "value": 10.24896266
+        },
+        {
+            "axis": "Non-Road Mobile",
+            "value": 7.634854772
+        }
+    ],
+    "SO2": [
+        {
+            "axis": "Stationary Fuel Combustion",
+            "value": 73.42342342
+        },
+        {
+            "axis": "Industrial and Other Processes",
+            "value": 22.97297297
+        },
+        {
+            "axis": "Highway Vehicles",
+            "value": 1.013513514
+        },
+        {
+            "axis": "Non-Road Mobile",
+            "value": 2.59009009
+        }
+    ],
+    "VOC": [
+        {
+            "axis": "Stationary Fuel Combustion",
+            "value": 3.841883189
+        },
+        {
+            "axis": "Industrial and Other Processes",
+            "value": 72.2407284
+        },
+        {
+            "axis": "Highway Vehicles",
+            "value": 11.91057813
+        },
+        {
+            "axis": "Non-Road Mobile",
+            "value": 12.00681027
+        }
+    ]
+}
