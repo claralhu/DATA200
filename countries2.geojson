@@ -4,7 +4,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Afghanistan"
+        "name": "Afghanistan",
+        "pm25": "50.8",
+        "percent": "12.29"
       },
       "geometry": {
         "type": "Polygon",
@@ -294,7 +296,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Angola"
+        "name": "Angola",
+        "pm25": "27",
+        "percent": "3.44"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -614,7 +618,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Albania"
+        "name": "Albania",
+        "pm25": "19.8",
+        "percent": "7.71"
       },
       "geometry": {
         "type": "Polygon",
@@ -716,7 +722,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "United Arab Emirates"
+        "name": "United Arab Emirates",
+        "pm25": "42.7",
+        "percent": "22.21"
       },
       "geometry": {
         "type": "Polygon",
@@ -818,7 +826,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Argentina"
+        "name": "Argentina",
+        "pm25": "13",
+        "percent": "4.01"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -1322,7 +1332,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Armenia"
+        "name": "Armenia",
+        "pm25": "31.9",
+        "percent": "12.56"
       },
       "geometry": {
         "type": "Polygon",
@@ -4142,7 +4154,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Australia"
+        "name": "Australia",
+        "pm25": "7",
+        "percent": "1.05"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -5126,7 +5140,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Austria"
+        "name": "Austria",
+        "pm25": "12.1",
+        "percent": "2.69"
       },
       "geometry": {
         "type": "Polygon",
@@ -5288,7 +5304,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Azerbaijan"
+        "name": "Azerbaijan",
+        "pm25": "23.9",
+        "percent": "12.69"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -5484,7 +5502,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Burundi"
+        "name": "Burundi",
+        "pm25": "31.5",
+        "percent": "5.04"
       },
       "geometry": {
         "type": "Polygon",
@@ -5550,7 +5570,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Belgium"
+        "name": "Belgium",
+        "pm25": "12.8",
+        "percent": "3.29"
       },
       "geometry": {
         "type": "Polygon",
@@ -5624,7 +5646,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Benin"
+        "name": "Benin",
+        "pm25": "42.6",
+        "percent": "6.83"
       },
       "geometry": {
         "type": "Polygon",
@@ -5738,7 +5762,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Burkina Faso"
+        "name": "Burkina Faso",
+        "pm25": "50.4",
+        "percent": "10.53"
       },
       "geometry": {
         "type": "Polygon",
@@ -5908,7 +5934,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Bangladesh"
+        "name": "Bangladesh",
+        "pm25": "61.9",
+        "percent": "17.65"
       },
       "geometry": {
         "type": "Polygon",
@@ -6066,7 +6094,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Bulgaria"
+        "name": "Bulgaria",
+        "pm25": "19.7",
+        "percent": "9"
       },
       "geometry": {
         "type": "Polygon",
@@ -6192,7 +6222,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "The Bahamas"
+        "name": "The Bahamas",
+        "pm25": "13.9",
+        "percent": "2.87"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -6300,7 +6332,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Bosnia and Herzegovina"
+        "name": "Bosnia and Herzegovina",
+        "pm25": "29.8",
+        "percent": "13.08"
       },
       "geometry": {
         "type": "Polygon",
@@ -6402,7 +6436,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Belarus"
+        "name": "Belarus",
+        "pm25": "16.3",
+        "percent": "7.25"
       },
       "geometry": {
         "type": "Polygon",
@@ -6592,7 +6628,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Belize"
+        "name": "Belize",
+        "pm25": "19.3",
+        "percent": "5"
       },
       "geometry": {
         "type": "Polygon",
@@ -6686,7 +6724,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Bolivia"
+        "name": "Bolivia",
+        "pm25": "26",
+        "percent": "7.08"
       },
       "geometry": {
         "type": "Polygon",
@@ -6940,7 +6980,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Brazil"
+        "name": "Brazil",
+        "pm25": "11.8",
+        "percent": "3.26"
       },
       "geometry": {
         "type": "Polygon",
@@ -7766,7 +7808,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Brunei"
+        "name": "Brunei",
+        "pm25": "7.6",
+        "percent": "1.65"
       },
       "geometry": {
         "type": "Polygon",
@@ -7812,7 +7856,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Bhutan"
+        "name": "Bhutan",
+        "pm25": "38.8",
+        "percent": "10.48"
       },
       "geometry": {
         "type": "Polygon",
@@ -7878,7 +7924,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Botswana"
+        "name": "Botswana",
+        "pm25": "24.3",
+        "percent": "9.33"
       },
       "geometry": {
         "type": "Polygon",
@@ -8052,7 +8100,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Central African Republic"
+        "name": "Central African Republic",
+        "pm25": "41.3",
+        "percent": "7.76"
       },
       "geometry": {
         "type": "Polygon",
@@ -8314,7 +8364,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Canada"
+        "name": "Canada",
+        "pm25": "7.3",
+        "percent": "1.25"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -11626,7 +11678,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Switzerland"
+        "name": "Switzerland",
+        "pm25": "10.2",
+        "percent": "2.03"
       },
       "geometry": {
         "type": "Polygon",
@@ -11736,7 +11790,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Chile"
+        "name": "Chile",
+        "pm25": "21.9",
+        "percent": "5.30"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -12212,7 +12268,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "China"
+        "name": "China",
+        "pm25": "49.8",
+        "percent": "19.09"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -13192,7 +13250,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Ivory Coast"
+        "name": "Ivory Coast",
+        "pm25": "52.1",
+        "percent": "6.30"
       },
       "geometry": {
         "type": "Polygon",
@@ -13390,7 +13450,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Cameroon"
+        "name": "Cameroon",
+        "pm25": "58.9",
+        "percent": "8.12"
       },
       "geometry": {
         "type": "Polygon",
@@ -13648,7 +13710,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Democratic Republic of the Congo"
+        "name": "Democratic Republic of the Congo",
+        "pm25": "33",
+        "percent": "4.47"
       },
       "geometry": {
         "type": "Polygon",
@@ -14150,7 +14214,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Republic of the Congo"
+        "name": "Republic of the Congo",
+        "pm25": "35.2",
+        "percent": "7.19"
       },
       "geometry": {
         "type": "Polygon",
@@ -14360,7 +14426,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Colombia"
+        "name": "Colombia",
+        "pm25": "21.3",
+        "percent": "5.12"
       },
       "geometry": {
         "type": "Polygon",
@@ -14774,7 +14842,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Costa Rica"
+        "name": "Costa Rica",
+        "pm25": "17.3",
+        "percent": "3.75"
       },
       "geometry": {
         "type": "Polygon",
@@ -14932,7 +15002,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Cuba"
+        "name": "Cuba",
+        "pm25": "17.5",
+        "percent": "6.38"
       },
       "geometry": {
         "type": "Polygon",
@@ -15192,7 +15264,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Cyprus"
+        "name": "Cyprus",
+        "pm25": "15.2",
+        "percent": "4.35"
       },
       "geometry": {
         "type": "Polygon",
@@ -15266,7 +15340,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Czech Republic"
+        "name": "Czech Republic",
+        "pm25": "16.8",
+        "percent": "5.82"
       },
       "geometry": {
         "type": "Polygon",
@@ -15420,7 +15496,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Germany"
+        "name": "Germany",
+        "pm25": "11.9",
+        "percent": "2.89"
       },
       "geometry": {
         "type": "Polygon",
@@ -15666,7 +15744,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Djibouti"
+        "name": "Djibouti",
+        "pm25": "41.1",
+        "percent": "8.46"
       },
       "geometry": {
         "type": "Polygon",
@@ -15740,7 +15820,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Denmark"
+        "name": "Denmark",
+        "pm25": "10.2",
+        "percent": "2.46"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -15856,7 +15938,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Dominican Republic"
+        "name": "Dominican Republic",
+        "pm25": "16.8",
+        "percent": "5.99"
       },
       "geometry": {
         "type": "Polygon",
@@ -15974,7 +16058,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Algeria"
+        "name": "Algeria",
+        "pm25": "31.6",
+        "percent": "10.85"
       },
       "geometry": {
         "type": "Polygon",
@@ -16236,7 +16322,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Ecuador"
+        "name": "Ecuador",
+        "pm25": "18.8",
+        "percent": "5.08"
       },
       "geometry": {
         "type": "Polygon",
@@ -16382,7 +16470,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Egypt"
+        "name": "Egypt",
+        "pm25": "65.8",
+        "percent": "19.08"
       },
       "geometry": {
         "type": "Polygon",
@@ -16564,7 +16654,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Eritrea"
+        "name": "Eritrea",
+        "pm25": "41.6",
+        "percent": "14.67"
       },
       "geometry": {
         "type": "Polygon",
@@ -16690,7 +16782,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Spain"
+        "name": "Spain",
+        "pm25": "9.9",
+        "percent": "2.14"
       },
       "geometry": {
         "type": "Polygon",
@@ -16908,7 +17002,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Estonia"
+        "name": "Estonia",
+        "pm25": "5.7",
+        "percent": "0.61"
       },
       "geometry": {
         "type": "Polygon",
@@ -16990,7 +17086,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Ethiopia"
+        "name": "Ethiopia",
+        "pm25": "32.6",
+        "percent": "4.66"
       },
       "geometry": {
         "type": "Polygon",
@@ -17240,7 +17338,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Finland"
+        "name": "Finland",
+        "pm25": "5.2",
+        "percent": "0.47"
       },
       "geometry": {
         "type": "Polygon",
@@ -17406,7 +17506,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Fiji"
+        "name": "Fiji",
+        "pm25": "9.8",
+        "percent": "4.44"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -17572,7 +17674,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "France"
+        "name": "France",
+        "pm25": "11.6",
+        "percent": "2.25"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -17892,7 +17996,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Gabon"
+        "name": "Gabon",
+        "pm25": "33.3",
+        "percent": "6.18"
       },
       "geometry": {
         "type": "Polygon",
@@ -18030,7 +18136,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "England"
+        "name": "United Kingdom",
+        "pm25": "10.5",
+        "percent": "2.59"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -18274,7 +18382,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Georgia"
+        "name": "Georgia",
+        "pm25": "17.8",
+        "percent": "6.95"
       },
       "geometry": {
         "type": "Polygon",
@@ -18384,7 +18494,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Ghana"
+        "name": "Ghana",
+        "pm25": "54",
+        "percent": "10.26"
       },
       "geometry": {
         "type": "Polygon",
@@ -18498,7 +18610,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Guinea"
+        "name": "Guinea",
+        "pm25": "50.4",
+        "percent": "10.59"
       },
       "geometry": {
         "type": "Polygon",
@@ -18792,7 +18906,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Gambia"
+        "name": "Gambia",
+        "pm25": "58.6",
+        "percent": "8.54"
       },
       "geometry": {
         "type": "Polygon",
@@ -18870,7 +18986,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Guinea Bissau"
+        "name": "Guinea Bissau",
+        "pm25": "54.6",
+        "percent": "10.77"
       },
       "geometry": {
         "type": "Polygon",
@@ -18960,7 +19078,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Equatorial Guinea"
+        "name": "Equatorial Guinea",
+        "pm25": "41.3",
+        "percent": "3.66"
       },
       "geometry": {
         "type": "Polygon",
@@ -19002,7 +19122,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Greece"
+        "name": "Greece",
+        "pm25": "14.6",
+        "percent": "5.05"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -19780,7 +19902,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Guatemala"
+        "name": "Guatemala",
+        "pm25": "27.3",
+        "percent": "8.47"
       },
       "geometry": {
         "type": "Polygon",
@@ -19934,7 +20058,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Guyana"
+        "name": "Guyana",
+        "pm25": "20.5",
+        "percent": "7.87"
       },
       "geometry": {
         "type": "Polygon",
@@ -20108,7 +20234,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Honduras"
+        "name": "Honduras",
+        "pm25": "22.3",
+        "percent": "7.56"
       },
       "geometry": {
         "type": "Polygon",
@@ -20350,7 +20478,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Croatia"
+        "name": "Croatia",
+        "pm25": "18",
+        "percent": "5.70"
       },
       "geometry": {
         "type": "Polygon",
@@ -20532,7 +20662,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Haiti"
+        "name": "Haiti",
+        "pm25": "17.8",
+        "percent": "5.16"
       },
       "geometry": {
         "type": "Polygon",
@@ -20630,7 +20762,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Hungary"
+        "name": "Hungary",
+        "pm25": "16.5",
+        "percent": "6.17"
       },
       "geometry": {
         "type": "Polygon",
@@ -20768,7 +20902,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Indonesia"
+        "name": "Indonesia",
+        "pm25": "18",
+        "percent": "6.76"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -21832,7 +21968,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "India"
+        "name": "India",
+        "pm25": "80.2",
+        "percent": "17.66"
       },
       "geometry": {
         "type": "Polygon",
@@ -22390,7 +22528,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Ireland"
+        "name": "Ireland",
+        "pm25": "7.7",
+        "percent": "1.66"
       },
       "geometry": {
         "type": "Polygon",
@@ -22456,7 +22596,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Iran"
+        "name": "Iran",
+        "pm25": "38.3",
+        "percent": "12.08"
       },
       "geometry": {
         "type": "Polygon",
@@ -22770,7 +22912,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Iraq"
+        "name": "Iraq",
+        "pm25": "48.6",
+        "percent": "14.75"
       },
       "geometry": {
         "type": "Polygon",
@@ -22904,7 +23048,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Iceland"
+        "name": "Iceland",
+        "pm25": "5.6",
+        "percent": "0.65"
       },
       "geometry": {
         "type": "Polygon",
@@ -22998,7 +23144,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Israel"
+        "name": "Israel",
+        "pm25": "19.7",
+        "percent": "5.41"
       },
       "geometry": {
         "type": "Polygon",
@@ -23104,7 +23252,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Italy"
+        "name": "Italy",
+        "pm25": "15.6",
+        "percent": "3.97"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -23476,7 +23626,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Jamaica"
+        "name": "Jamaica",
+        "pm25": "15.2",
+        "percent": "4.39"
       },
       "geometry": {
         "type": "Polygon",
@@ -23534,7 +23686,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Jordan"
+        "name": "Jordan",
+        "pm25": "32.1",
+        "percent": "7.89"
       },
       "geometry": {
         "type": "Polygon",
@@ -23624,7 +23778,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Japan"
+        "name": "Japan",
+        "pm25": "13.5",
+        "percent": "3.15"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -23908,7 +24064,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Kazakhstan"
+        "name": "Kazakhstan",
+        "pm25": "19",
+        "percent": "8.09"
       },
       "geometry": {
         "type": "Polygon",
@@ -24370,7 +24528,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Kenya"
+        "name": "Kenya",
+        "pm25": "24.4",
+        "percent": "4.53"
       },
       "geometry": {
         "type": "Polygon",
@@ -24532,7 +24692,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Kyrgyzstan"
+        "name": "Kyrgyzstan",
+        "pm25": "22.9",
+        "percent": "8.49"
       },
       "geometry": {
         "type": "Polygon",
@@ -24686,7 +24848,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Cambodia"
+        "name": "Cambodia",
+        "pm25": "21.2",
+        "percent": "8.06"
       },
       "geometry": {
         "type": "Polygon",
@@ -24768,7 +24932,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "South Korea"
+        "name": "South Korea",
+        "pm25": "26.6",
+        "percent": "7.41"
       },
       "geometry": {
         "type": "Polygon",
@@ -24956,7 +25122,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Kuwait"
+        "name": "Kuwait",
+        "pm25": "63.1",
+        "percent": "14.62"
       },
       "geometry": {
         "type": "Polygon",
@@ -25006,7 +25174,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Laos"
+        "name": "Laos",
+        "pm25": "18.5",
+        "percent": "6.15"
       },
       "geometry": {
         "type": "Polygon",
@@ -25168,7 +25338,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Lebanon"
+        "name": "Lebanon",
+        "pm25": "28.5",
+        "percent": "12.31"
       },
       "geometry": {
         "type": "Polygon",
@@ -25226,7 +25398,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Liberia"
+        "name": "Liberia",
+        "pm25": "46.5",
+        "percent": "5.86"
       },
       "geometry": {
         "type": "Polygon",
@@ -25348,7 +25522,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Libya"
+        "name": "Libya",
+        "pm25": "36.2",
+        "percent": "10.1"
       },
       "geometry": {
         "type": "Polygon",
@@ -25586,7 +25762,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Sri Lanka"
+        "name": "Sri Lanka",
+        "pm25": "19.6",
+        "percent": "6.72"
       },
       "geometry": {
         "type": "Polygon",
@@ -25640,7 +25818,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Lesotho"
+        "name": "Lesotho",
+        "pm25": "29.4",
+        "percent": "6"
       },
       "geometry": {
         "type": "Polygon",
@@ -25702,7 +25882,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Lithuania"
+        "name": "Lithuania",
+        "pm25": "10.2",
+        "percent": "3.07"
       },
       "geometry": {
         "type": "Polygon",
@@ -25792,7 +25974,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Luxembourg"
+        "name": "Luxembourg",
+        "pm25": "9.9",
+        "percent": "2.12"
       },
       "geometry": {
         "type": "Polygon",
@@ -25834,7 +26018,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Latvia"
+        "name": "Latvia",
+        "pm25": "11.7",
+        "percent": "3.65"
       },
       "geometry": {
         "type": "Polygon",
@@ -25936,7 +26122,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Morocco"
+        "name": "Morocco",
+        "pm25": "34",
+        "percent": "16.47"
       },
       "geometry": {
         "type": "Polygon",
@@ -26206,7 +26394,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Moldova"
+        "name": "Moldova",
+        "pm25": "13.1",
+        "percent": "4.31"
       },
       "geometry": {
         "type": "Polygon",
@@ -26328,7 +26518,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Madagascar"
+        "name": "Madagascar",
+        "pm25": "17.5",
+        "percent": "4.13"
       },
       "geometry": {
         "type": "Polygon",
@@ -26538,7 +26730,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Mexico"
+        "name": "Mexico",
+        "pm25": "20.1",
+        "percent": "5.61"
       },
       "geometry": {
         "type": "Polygon",
@@ -27232,7 +27426,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Macedonia"
+        "name": "Macedonia",
+        "pm25": "31.6",
+        "percent": "16.09"
       },
       "geometry": {
         "type": "Polygon",
@@ -27314,7 +27510,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Mali"
+        "name": "Mali",
+        "pm25": "56.5",
+        "percent": "7.59"
       },
       "geometry": {
         "type": "Polygon",
@@ -27632,7 +27830,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Myanmar"
+        "name": "Myanmar",
+        "pm25": "28.5",
+        "percent": "10.55"
       },
       "geometry": {
         "type": "Polygon",
@@ -27926,7 +28126,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Montenegro"
+        "name": "Montenegro",
+        "pm25": "21.6",
+        "percent": "9.31"
       },
       "geometry": {
         "type": "Polygon",
@@ -28012,7 +28214,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Mongolia"
+        "name": "Mongolia",
+        "pm25": "36.7",
+        "percent": "14.42"
       },
       "geometry": {
         "type": "Polygon",
@@ -28326,7 +28530,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Mozambique"
+        "name": "Mozambique",
+        "pm25": "21.4",
+        "percent": "3.39"
       },
       "geometry": {
         "type": "Polygon",
@@ -28648,7 +28854,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Mauritania"
+        "name": "Mauritania",
+        "pm25": "64.3",
+        "percent": "7.82"
       },
       "geometry": {
         "type": "Polygon",
@@ -28818,7 +29026,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Malawi"
+        "name": "Malawi",
+        "pm25": "23.1",
+        "percent": "4.03"
       },
       "geometry": {
         "type": "Polygon",
@@ -28944,7 +29154,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Malaysia"
+        "name": "Malaysia",
+        "pm25": "16.2",
+        "percent": "6.41"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -29212,7 +29424,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Namibia"
+        "name": "Namibia",
+        "pm25": "24.4",
+        "percent": "5.64"
       },
       "geometry": {
         "type": "Polygon",
@@ -29468,7 +29682,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Niger"
+        "name": "Niger",
+        "pm25": "70.9",
+        "percent": "10.36"
       },
       "geometry": {
         "type": "Polygon",
@@ -29714,7 +29930,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Nigeria"
+        "name": "Nigeria",
+        "pm25": "64.2",
+        "percent": "6.52"
       },
       "geometry": {
         "type": "Polygon",
@@ -29960,7 +30178,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Nicaragua"
+        "name": "Nicaragua",
+        "pm25": "19.1",
+        "percent": "4.9"
       },
       "geometry": {
         "type": "Polygon",
@@ -30182,7 +30402,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Netherlands"
+        "name": "Netherlands",
+        "pm25": "12.4",
+        "percent": "3.21"
       },
       "geometry": {
         "type": "Polygon",
@@ -30252,7 +30474,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Norway"
+        "name": "Norway",
+        "pm25": "6.5",
+        "percent": "0.89"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -30632,7 +30856,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Nepal"
+        "name": "Nepal",
+        "pm25": "79.3",
+        "percent": "21.54"
       },
       "geometry": {
         "type": "Polygon",
@@ -30738,7 +30964,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "New Zealand"
+        "name": "New Zealand",
+        "pm25": "6.6",
+        "percent": "0.98"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -31022,7 +31250,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Oman"
+        "name": "Oman",
+        "pm25": "42.6",
+        "percent": "16.26"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -31230,7 +31460,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Pakistan"
+        "name": "Pakistan",
+        "pm25": "59.7",
+        "percent": "13.09"
       },
       "geometry": {
         "type": "Polygon",
@@ -31508,7 +31740,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Panama"
+        "name": "Panama",
+        "pm25": "13.7,
+        "percent": "3.15"
       },
       "geometry": {
         "type": "Polygon",
@@ -31730,7 +31964,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Peru"
+        "name": "Peru",
+        "pm25": "29.6",
+        "percent": "6.59"
       },
       "geometry": {
         "type": "Polygon",
@@ -32048,7 +32284,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Philippines"
+        "name": "Philippines",
+        "pm25": "18.4",
+        "percent": "6.75"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -32528,7 +32766,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Papua New Guinea"
+        "name": "Papua New Guinea",
+        "pm25": "13.3",
+        "percent": "4.58"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -32880,7 +33120,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Poland"
+        "name": "Poland",
+        "pm25": "22.7",
+        "percent": "8.04"
       },
       "geometry": {
         "type": "Polygon",
@@ -33074,7 +33316,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Puerto Rico"
+        "name": "Puerto Rico",
+        "pm25": "7",
+        "percent": "1.43"
       },
       "geometry": {
         "type": "Polygon",
@@ -33124,7 +33368,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "North Korea"
+        "name": "North Korea",
+        "pm25": "41.8",
+        "percent": "18.27"
       },
       "geometry": {
         "type": "Polygon",
@@ -33310,7 +33556,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Portugal"
+        "name": "Portugal",
+        "pm25": "8.6",
+        "percent": "2.00"
       },
       "geometry": {
         "type": "Polygon",
@@ -33456,7 +33704,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Paraguay"
+        "name": "Paraguay",
+        "pm25": "12.5",
+        "percent": "3.06"
       },
       "geometry": {
         "type": "Polygon",
@@ -33602,7 +33852,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Qatar"
+        "name": "Qatar",
+        "pm25": "71.6",
+        "percent": "13.62"
       },
       "geometry": {
         "type": "Polygon",
@@ -33652,7 +33904,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Romania"
+        "name": "Romania",
+        "pm25": "15.9",
+        "percent": "5.87"
       },
       "geometry": {
         "type": "Polygon",
@@ -33842,7 +34096,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Russia"
+        "name": "Russia",
+        "pm25": "10.9",
+        "percent": "3.46"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -36298,7 +36554,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Rwanda"
+        "name": "Rwanda",
+        "pm25": "33.8",
+        "percent": "7.43"
       },
       "geometry": {
         "type": "Polygon",
@@ -36490,7 +36748,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Saudi Arabia"
+        "name": "Saudi Arabia",
+        "pm25": "61.5",
+        "percent": "17.36"
       },
       "geometry": {
         "type": "Polygon",
@@ -36808,7 +37068,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Sudan"
+        "name": "Sudan",
+        "pm25": "50",
+        "percent": "8.31"
       },
       "geometry": {
         "type": "Polygon",
@@ -37138,7 +37400,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "South Sudan"
+        "name": "South Sudan",
+        "pm25": "36.4",
+        "percent": "3.97"
       },
       "geometry": {
         "type": "Polygon",
@@ -37404,7 +37668,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Senegal"
+        "name": "Senegal",
+        "pm25": "60.5",
+        "percent": "10.91"
       },
       "geometry": {
         "type": "Polygon",
@@ -37594,7 +37860,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Solomon Islands"
+        "name": "Solomon Islands",
+        "pm25": "10.7",
+        "percent": "8.67"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -37774,7 +38042,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Sierra Leone"
+        "name": "Sierra Leone",
+        "pm25": "48.2",
+        "percent": "6.70"
       },
       "geometry": {
         "type": "Polygon",
@@ -37876,7 +38146,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "El Salvador"
+        "name": "El Salvador",
+        "pm25": "22.6",
+        "percent": "5.44"
       },
       "geometry": {
         "type": "Polygon",
@@ -38080,7 +38352,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Somalia"
+        "name": "Somalia",
+        "pm25": "28.8",
+        "percent": "5.79"
       },
       "geometry": {
         "type": "Polygon",
@@ -38238,7 +38512,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Republic of Serbia"
+        "name": "Republic of Serbia",
+        "pm25": "26.5",
+        "percent": "10.87"
       },
       "geometry": {
         "type": "Polygon",
@@ -38436,7 +38712,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Suriname"
+        "name": "Suriname",
+        "pm25": "21.9",
+        "percent": "7.55"
       },
       "geometry": {
         "type": "Polygon",
@@ -38554,7 +38832,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Slovakia"
+        "name": "Slovakia",
+        "pm25": "18.4",
+        "percent": "6.64"
       },
       "geometry": {
         "type": "Polygon",
@@ -38700,7 +38980,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Slovenia"
+        "name": "Slovenia",
+        "pm25": "16.9",
+        "percent": "4.08"
       },
       "geometry": {
         "type": "Polygon",
@@ -38786,7 +39068,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Sweden"
+        "name": "Sweden",
+        "pm25": "5.7",
+        "percent": "0.64"
       },
       "geometry": {
         "type": "Polygon",
@@ -38960,7 +39244,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Swaziland"
+        "name": "Swaziland",
+        "pm25": "23.1",
+        "percent": "5.61"
       },
       "geometry": {
         "type": "Polygon",
@@ -39018,7 +39304,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Syria"
+        "name": "Syria",
+        "pm25": "31.1",
+        "percent": "12.23"
       },
       "geometry": {
         "type": "Polygon",
@@ -39140,7 +39428,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Chad"
+        "name": "Chad",
+        "pm25": "55.3",
+        "percent": "7.02"
       },
       "geometry": {
         "type": "Polygon",
@@ -39386,7 +39676,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Togo"
+        "name": "Togo",
+        "pm25": "44.4",
+        "percent": "6.63"
       },
       "geometry": {
         "type": "Polygon",
@@ -39476,7 +39768,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Thailand"
+        "name": "Thailand",
+        "pm25": "26.4",
+        "percent": "7.05"
       },
       "geometry": {
         "type": "Polygon",
@@ -39746,7 +40040,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Tajikistan"
+        "name": "Tajikistan",
+        "pm25": "35.9",
+        "percent": "16.56"
       },
       "geometry": {
         "type": "Polygon",
@@ -39924,7 +40220,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Turkmenistan"
+        "name": "Turkmenistan",
+        "pm25": "25.5",
+        "percent": "8.88"
       },
       "geometry": {
         "type": "Polygon",
@@ -40154,7 +40452,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "East Timor"
+        "name": "East Timor",
+        "pm25": "15.3",
+        "percent": "4.82"
       },
       "geometry": {
         "type": "Polygon",
@@ -40212,7 +40512,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Trinidad and Tobago"
+        "name": "Trinidad and Tobago",
+        "pm25": "19.5",
+        "percent": "7.25"
       },
       "geometry": {
         "type": "Polygon",
@@ -40258,7 +40560,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Tunisia"
+        "name": "Tunisia",
+        "pm25": "29.3",
+        "percent": "10.69"
       },
       "geometry": {
         "type": "Polygon",
@@ -40396,7 +40700,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Turkey"
+        "name": "Turkey",
+        "pm25": "26.1",
+        "percent": "10.47"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -40684,7 +40990,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Taiwan"
+        "name": "Taiwan",
+        "pm25": "23.9",
+        "percent": "7.60"
       },
       "geometry": {
         "type": "Polygon",
@@ -40734,7 +41042,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "United Republic of Tanzania"
+        "name": "United Republic of Tanzania",
+        "pm25": "24.6",
+        "percent": "4.95"
       },
       "geometry": {
         "type": "Polygon",
@@ -40944,7 +41254,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Uganda"
+        "name": "Uganda",
+        "pm25": "36.7",
+        "percent": "4.84"
       },
       "geometry": {
         "type": "Polygon",
@@ -41066,7 +41378,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Ukraine"
+        "name": "Ukraine",
+        "pm25": "14",
+        "percent": "6.10"
       },
       "geometry": {
         "type": "Polygon",
@@ -41472,7 +41786,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Uruguay"
+        "name": "Uruguay",
+        "pm25": "9.8",
+        "percent": "2.31"
       },
       "geometry": {
         "type": "Polygon",
@@ -41570,7 +41886,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "USA"
+        "name": "USA",
+        "pm25": "7.8",
+        "percent": "1.58"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -43398,7 +43716,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Uzbekistan"
+        "name": "Uzbekistan",
+        "pm25": "32.5",
+        "percent": "16.81"
       },
       "geometry": {
         "type": "Polygon",
@@ -43628,7 +43948,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Venezuela"
+        "name": "Venezuela",
+        "pm25": "20.3",
+        "percent": "5.42"
       },
       "geometry": {
         "type": "Polygon",
@@ -44010,7 +44332,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Vietnam"
+        "name": "Vietnam",
+        "pm25": "20",
+        "percent": "7.63"
       },
       "geometry": {
         "type": "Polygon",
@@ -44200,7 +44524,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Vanuatu"
+        "name": "Vanuatu",
+        "pm25": "11.1",
+        "percent": "4.5"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -44318,7 +44644,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Yemen"
+        "name": "Yemen",
+        "pm25": "44.1",
+        "percent": "10.19"
       },
       "geometry": {
         "type": "Polygon",
@@ -44508,7 +44836,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "South Africa"
+        "name": "South Africa",
+        "pm25": "28.8",
+        "percent": "6.35"
       },
       "geometry": {
         "type": "Polygon",
@@ -44900,7 +45230,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Zambia"
+        "name": "Zambia",
+        "pm25": "24.9",
+        "percent": "4.76"
       },
       "geometry": {
         "type": "Polygon",
@@ -45158,7 +45490,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Zimbabwe"
+        "name": "Zimbabwe",
+        "pm25": "21.7",
+        "percent": "51.7"
       },
       "geometry": {
         "type": "Polygon",
